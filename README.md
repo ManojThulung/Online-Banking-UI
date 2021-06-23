@@ -10,6 +10,7 @@ This bank has four account's objects stored in an array.
 Here, array and different modern array tools (methods) are used.
 
 #For Login
+
 usre 1
 id: js
 pw: 1111
@@ -27,4 +28,5 @@ id: ss
 pw: 4444
 
 #CodingChallange1
+
 In the folder codingChallenge1 differe array's modern tools(methods) are practiced.
